@@ -2,7 +2,7 @@
 
 Responsive UI clone of Spotify App.
 
-##UI Prototype
+## UI Prototype
 
 https://user-images.githubusercontent.com/77967955/173514797-ede9cb50-e870-4926-9687-cfa7ed5155c4.mp4
 
